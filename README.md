@@ -24,6 +24,3 @@ This thesis explores the potential of **quantum computing** to outperform classi
 * Compared **classical brute force vs. quantum VQE approaches** for solving TSP.
 * Showed how **quantum algorithms can achieve speedups** and open new frontiers in optimization and information processing.
 
-
-
-Would you like me to also create a **shorter one-line summary** (for the repo tagline) along with this detailed explanation?
